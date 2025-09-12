@@ -1,5 +1,4 @@
-# 🚗 Electric Vehicle Data Analysis with Tableau
-
+# 🚗 Electric Vehicle Adoption in the U.S.: A Tableau Story Dashboard
 This repository contains a data visualization project focused on analyzing electric vehicle (EV) adoption across the United States, with a spotlight on California. The project is built using **Tableau**, leveraging its dashboarding and storytelling capabilities to uncover trends in EV growth, model popularity, clean vehicle eligibility, and manufacturer performance.
 
 ---
