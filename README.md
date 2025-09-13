@@ -73,7 +73,7 @@ It contains details such as:
 - Clean Alternative Fuel Vehicle (CAFV) eligibility  
 - State and county of registration  
 
-📌 Source: [U.S. DOE AFDC – Alternative Fuel Vehicles Data](https://afdc.energy.gov/vehicles/search/)  
+📌 Source: Kaggle – Electric Vehicle Population Data
 
 ## 🖥️ Dashboard Features  
 
